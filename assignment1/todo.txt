@@ -1,0 +1,13 @@
+- import libs
+- set randomness
+- download corpus and glove 
+- put both in dataframe
+- stats and data visualization
+- build vocab for words in corpus -> id
+- build vocab for words in gloves -> embeddings
+- stats and data visualization
+- preprocessing if needed
+- save things , check if already daved, reload, ecc 
+- build embedding matrix and handel OOV 
+- train, validation, test split 
+- build the model 
