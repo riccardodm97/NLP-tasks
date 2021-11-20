@@ -10,7 +10,7 @@ GENERAL
 - build vocab for words in gloves -> embeddings
 - stats and data visualization
 - preprocessing if needed
-- save things , check if already daved, reload, ecc 
+- save things , check if already saved, reload, ecc 
 - build embedding matrix and handel OOV 
 - train, validation, test split 
 - build the model 
