@@ -31,3 +31,4 @@ conda install -c conda-forge jupyterlab
 conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch    // se avete la gpu
 conda install pytorch torchvision torchaudio cpuonly -c pytorch             // se non avete la gpu
 conda install pandas 
+conda install -c anaconda gensim
