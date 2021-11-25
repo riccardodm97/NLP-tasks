@@ -11,15 +11,16 @@ GENERAL
 - stats and data visualization
 - preprocessing if needed
 - save things , check if already saved, reload, ecc 
-- build embedding matrix and handel OOV 
-- train, validation, test split 
+- build embedding matrix and handle OOV 
 - build the model 
+- train, validation, test split 
+
 
 
 SPECIFIC 
 - encode df containing sentences in df of idxs ->tokenization
 - implement decoder function to test that everything is ok 
-
+- 
 
 
 
