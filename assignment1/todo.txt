@@ -16,6 +16,28 @@ GENERAL
 - train, validation, test split 
 
 
+PIPELINES:
+    -Train Pipeline:
+        -Inputs: (model, x_train, y_train, x_val, y_val, **training_info**)
+            training_info -> model fit() argument information
+        - History: model.fit(x_train, y_train, validation_data)
+            Plots the History
+        -Outputs: trained model
+    
+    -Predict Pipeline:
+        -Inputs: (model, set_examples, prediction_info)
+        -Predictions: model.predict(set_examples, **prediction_info)
+        -Returns: predictions
+    
+    -Evaluation Pipeline:
+        -Inputs: (predictions, y, metrics, metrics_names)
+        -Metrics: metric_info={}
+            matric_value: metric_i(y_pred=predictions, y_true=y)... forall metrics
+            metric_info[metric_name]: metric_value
+        -Outputs: metric_info 
+
+
+
 
 SPECIFIC 
 - encode df containing sentences in df of idxs ->tokenization
