@@ -16,6 +16,9 @@ GENERAL
 - train, validation, test split 
 
 
+    RIMETTERE LO 0 COME PAD IDX
+
+
 PIPELINES:
     -Train Pipeline:
         -Inputs: (model, x_train, y_train, x_val, y_val, **training_info**)
