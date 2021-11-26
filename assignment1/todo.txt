@@ -16,7 +16,13 @@ GENERAL
 - train, validation, test split 
 
 
-    RIMETTERE LO 0 COME PAD IDX
+- download_and_unzip_dataset()
+
+
+
+
+
+RIMETTERE LO 0 COME PAD IDX
 
 
 PIPELINES:
