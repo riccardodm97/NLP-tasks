@@ -20,7 +20,7 @@ GENERAL
 SPECIFIC 
 - encode df containing sentences in df of idxs ->tokenization
 - implement decoder function to test that everything is ok 
-- 
+- forse index 0 reserved 
 
 
 
