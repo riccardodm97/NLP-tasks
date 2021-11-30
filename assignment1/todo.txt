@@ -1,13 +1,15 @@
 TODO:
 - F1 score masked  ✔
 - test che tutto sta effettivamente facendo quello che deve ✔
-- GRU al posto di LSTM
-- 2 layer LSTM
-- 2 dense layer
+- GRU al posto di LSTM ✔
+- 2 layer LSTM ✔
+- 2 dense layer ✔
 - error analyisis (confusion matrix, grafici, vedere una frase)
+- numero di parole diverse per tag / numero di occorrenze di ogni tag 
 - hyperparameter tuning (dropout, batch_size, lr, optimizer, regularization)
 - preprocessing / droppare frasi / oov words 
 - test pipeline 
+- mettere più commenti 
 
 
 PIPELINES:
@@ -36,7 +38,7 @@ PIPELINES:
 SPECIFIC 
 - encode df containing sentences in df of idxs ->tokenization
 - implement decoder function to test that everything is ok 
-- forse index 0 reserved 
+- index 0 reserved 
 
 
 
@@ -49,3 +51,4 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch    // s
 conda install pytorch torchvision torchaudio cpuonly -c pytorch             // se non avete la gpu
 conda install pandas 
 conda install -c anaconda gensim
+conda install scikit-learn
