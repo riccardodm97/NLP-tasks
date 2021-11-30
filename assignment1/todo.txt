@@ -51,4 +51,5 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch    // s
 conda install pytorch torchvision torchaudio cpuonly -c pytorch             // se non avete la gpu
 conda install pandas 
 conda install -c anaconda gensim
+conda install -c pytorch torchtext
 conda install scikit-learn
