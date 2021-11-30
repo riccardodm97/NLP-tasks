@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 assignment1/data
+assignment1/models
+

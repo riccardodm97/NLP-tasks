@@ -1,6 +1,6 @@
 TODO:
-- F1 score masked 
-- test che tutto sta effettivamente facendo quello che deve 
+- F1 score masked  ✔
+- test che tutto sta effettivamente facendo quello che deve ✔
 - GRU al posto di LSTM
 - 2 layer LSTM
 - 2 dense layer
