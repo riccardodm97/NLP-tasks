@@ -7,9 +7,12 @@ TODO:
 - error analyisis (confusion matrix, grafici, vedere una frase)
 - numero di parole diverse per tag / numero di occorrenze di ogni tag 
 - hyperparameter tuning (dropout, batch_size, lr, optimizer, regularization)
-- preprocessing / droppare frasi / oov words 
+- preprocessing / oov words 
+- data augmentation (tag poco comuni)
+- aumentare dimensione hidden layer
 - test pipeline 
 - mettere più commenti 
+- chiedere se -LRB- e -RRB- è da togliere perchè punteggiatura
 
 
 PIPELINES:
