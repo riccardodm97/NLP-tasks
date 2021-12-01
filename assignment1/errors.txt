@@ -1,7 +1,4 @@
 SCRIVIAMOCI GLI ERRORI CHE FACCIAMO PER PARLARNE NEL REPORT
 
 
-
-
-
-
+-the main cause for relatively high accuracy and low f1-score is underfitting on unbalanced data. Indeed .... il dataset è sbilanciato come si può vedere bla bla 
