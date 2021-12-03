@@ -4,15 +4,15 @@ TODO:
 - GRU al posto di LSTM ✔
 - 2 layer LSTM ✔
 - 2 dense layer ✔
-- error analyisis (confusion matrix, grafici, vedere una frase)
-- numero di parole diverse per tag / numero di occorrenze di ogni tag 
+- error analyisis (confusion matrix, grafici) ✔
+- numero di parole diverse per tag / numero di occorrenze di ogni tag  ✔
 - hyperparameter tuning (dropout, batch_size, lr, optimizer, regularization)
 - preprocessing / oov words 
-- data augmentation (tag poco comuni)
-- aumentare dimensione hidden layer
-- test pipeline 
+- data augmentation (tag poco comuni) / weighted loss ✔
+- aumentare dimensione hidden layer ✔
+- test pipeline  ✔
 - mettere più commenti 
-- chiedere se -LRB- e -RRB- è da togliere perchè punteggiatura
+- chiedere se -LRB- e -RRB- è da togliere perchè punteggiatura ✔
 
 
 PIPELINES:
