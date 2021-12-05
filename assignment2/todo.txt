@@ -1,0 +1,1 @@
+encode all 3 csv splits in dataframe with 
