@@ -1,1 +1,21 @@
-encode all 3 csv splits in dataframe with 
+
+
+TODO SPECIFIC : 
+- preprocessing :
+  ora la pipeline fa delle cose, ma tipo con regex e metodi di string, si potrebbe provare a fare con nltk o qualche altro tool 
+  inoltre si potrebbero provare a fare altre cose più specifiche (oltre che eliminare simboli, togliere punctuation, ecc), tipo stemming, stopwords, lettere da sole, acronimi, ecc 
+  bisogna in ogni caso considerare che il modello deve capire il senso della frase e deve capire le corrispondenze claim-> evidence quindi non vanno tolte cose che cambiano il senso del claim soprattutto 
+  per capire cosa fare ispezionare i csv dei vari split del dataset nella cartella data 
+  va comunque tutto messo nel metodo preprocessing_pipeling() e poi dopo funziona da solo basta runnare 
+
+
+
+TODO GENERAL : 
+- preprocessing pipeline
+- build vocab 
+- tokenize dataframe 
+- emb matrix 
+
+
+
+IMPORTANT : qualsiasi tool o libreria bisogna scaricare (se decidiamo di usarla definitivamente e non solo test) va messa nel file 'env.txt' che sta fuori da entrambi gli assignments
