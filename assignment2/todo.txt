@@ -8,6 +8,9 @@ TODO SPECIFIC :
   per capire cosa fare ispezionare i csv dei vari split del dataset nella cartella data 
   va comunque tutto messo nel metodo preprocessing_pipeling() e poi dopo funziona da solo basta runnare 
 
+- preprocessing possibilities 
+  lemmatization
+  tony-nominated -> tony nominated or tonynominated , 64/mpeg or 64 mpeg 
 
 
 TODO GENERAL : 
