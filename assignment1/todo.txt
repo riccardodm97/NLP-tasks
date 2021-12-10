@@ -11,7 +11,7 @@ TODO:
 - data augmentation (tag poco comuni) / weighted loss ✔
 - aumentare dimensione hidden layer ✔
 - test pipeline  ✔
-- mettere più commenti 
+- mettere più commenti ✔
 - chiedere se -LRB- e -RRB- è da togliere perchè punteggiatura ✔
 
 

@@ -14,10 +14,10 @@ TODO SPECIFIC :
 
 
 TODO GENERAL : 
-- rename tokenize to numberise o qualcosa di simile in as1 (tokenize non vuol dire quello)
-- preprocessing pipeline
-- build vocab 
-- tokenize dataframe 
+- rename tokenize to numberise o qualcosa di simile in as1 (tokenize non vuol dire quello) ✔
+- preprocessing pipeline 
+- build vocab ✔
+- numberise dataframe ✔
 - emb matrix 
 
 
