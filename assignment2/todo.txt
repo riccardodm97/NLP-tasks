@@ -22,6 +22,8 @@ TODO GENERAL :
 - dataloader ✔
 - modello e architetture ✔
 - train e val loop ✔
+- metrics ✔
+- capire dove perde tempo e essere sicuri che sta facendo tutto bene 
 
 
 
