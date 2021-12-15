@@ -20,8 +20,8 @@ TODO GENERAL :
 - numberise dataframe ✔
 - emb matrix ✔
 - dataloader ✔
-- modello e architetture
-- train e val loop 
+- modello e architetture ✔
+- train e val loop ✔
 
 
 
