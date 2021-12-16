@@ -23,7 +23,8 @@ TODO GENERAL :
 - modello e architetture ✔
 - train e val loop ✔
 - metrics ✔
-- capire dove perde tempo e essere sicuri che sta facendo tutto bene 
+- capire dove perde tempo e essere sicuri che sta facendo tutto bene
+- capire se la loss iniziale ha senso 
 
 
 
