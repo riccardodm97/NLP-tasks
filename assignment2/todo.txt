@@ -23,8 +23,16 @@ TODO GENERAL :
 - modello e architetture ✔
 - train e val loop ✔
 - metrics ✔
-- capire dove perde tempo e essere sicuri che sta facendo tutto bene
-- capire se la loss iniziale ha senso 
+- capire se la loss iniziale ha senso ✔
+- decidere finally il tipo di preprocessing
+- rifare train_and_eval 
+- essere sicuri che sta facendo tutto bene 
+- capire dove perde tempo 
+- rifare majority voting 
+- decidere hyperparam 
+- trainare tutto con una strategia di sentence emb 
+- applicare modifiche (regularization, dropout, altri layer, attention, bidirectional, multi_lstm)
+
 
 
 
