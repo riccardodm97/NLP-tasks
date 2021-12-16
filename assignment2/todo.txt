@@ -27,6 +27,7 @@ TODO GENERAL :
 - decidere finally il tipo di preprocessing
 - rifare train_and_eval 
 - essere sicuri che sta facendo tutto bene 
+- pulire codice (torch.isnan ecc)
 - capire dove perde tempo 
 - rifare majority voting 
 - decidere hyperparam 
