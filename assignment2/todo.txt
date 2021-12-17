@@ -39,3 +39,12 @@ TODO GENERAL :
 
 
 IMPORTANT : qualsiasi tool o libreria bisogna scaricare (se decidiamo di usarla definitivamente e non solo test) va messa nel file 'env.txt' che sta fuori da entrambi gli assignments
+
+REPORT:
+- Se Learning rate troppo alto (e.g. 0.1) con Adam ad una certa uscivano solo NaN -> LR = 10^-4
+- Weighted Loss perchè troppi SUPPORT nel train (classes imbalanced), quindi overfitting su quelli e poi nella validation la loss dopo un po' si impennava perchè prediva solo SUPPORT
+- L2 regularization sempre per eliminare overfitting
+- Provati 6 tipi di preprocessing -> scrivere risultati
+- Data loaders: se MLP -> paddiamo tutti i vettori di tutti i batch alla stessa lunghezza (quella del vettore più lungo in assoluto)
+                else -> paddiamo i batch in base alla lunghezza del vettore più lungo all'interno di ognuno
+- nel Majority voting quando ci sono gli stessi numeri di SUPPORTS e REFUTES noi li prediciamo come REFUTES (perchè nella realtà se una frase ne ha tre che la verificano ma tre che la negano probabilmente è falsa)
