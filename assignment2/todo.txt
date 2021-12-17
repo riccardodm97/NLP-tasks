@@ -24,12 +24,13 @@ TODO GENERAL :
 - train e val loop ✔
 - metrics ✔
 - capire se la loss iniziale ha senso ✔
-- decidere finally il tipo di preprocessing
 - rifare train_and_eval ✔
-- essere sicuri che sta facendo tutto bene 
 - pulire codice (torch.isnan ecc) ✔
 - capire dove perde tempo ✔
 - rifare majority voting  ✔
+- decidere finally il tipo di preprocessing
+- essere sicuri che sta facendo tutto bene 
+- scrivere bene commenti 
 - decidere hyperparam 
 - trainare tutto con una strategia di sentence emb 
 - applicare modifiche (regularization, dropout, altri layer, attention, bidirectional, multi_lstm)
