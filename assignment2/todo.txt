@@ -32,6 +32,7 @@ TODO GENERAL :
 - essere sicuri che sta facendo tutto bene 
 - scrivere bene commenti 
 - decidere hyperparam 
+- clean gpu before each strategy 
 - trainare tutto con una strategia di sentence emb 
 - applicare modifiche (regularization, dropout, altri layer, attention, bidirectional, multi_lstm)
 
