@@ -29,12 +29,12 @@ TODO GENERAL :
 - capire dove perde tempo ✔
 - rifare majority voting  ✔
 - decidere finally il tipo di preprocessing
-- essere sicuri che sta facendo tutto bene 
-- scrivere bene commenti 
+- essere sicuri che sta facendo tutto bene ✔
+- scrivere bene commenti ✔
 - decidere hyperparam 
-- clean gpu before each strategy 
-- trainare tutto con una strategia di sentence emb 
-- applicare modifiche (regularization, dropout, altri layer, attention, bidirectional, multi_lstm)
+- clean gpu before each strategy ✔
+- trainare tutto con una strategia di sentence emb ✔
+- applicare modifiche (regularization ✔, dropout, altri layer, attention, bidirectional, multi_lstm)
 
 
 
