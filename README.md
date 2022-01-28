@@ -1,4 +1,4 @@
-# NLP assignments
+# NLP tasks
 
 This repository includes two projects for the Natural Language Processing class of the M.Sc. in Artificial Intelligence at Alma Mater Studiorum - Università di Bologna. In particular, the two projects are:
 
